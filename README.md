@@ -14,4 +14,4 @@ Use left arrow key to move left and right arrow key to move right
 Use left arrow key + Shift to dash left
 Use right arrow key + Shift to dash right
 
-Background Music is taken from the game Infernax
+Background Music is taken from Panda beats
