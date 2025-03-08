@@ -3,6 +3,8 @@
 
 Followed a tutorial from youtube and added some elements by my own to the game
 
+Run start.py to play the game
+
 Objective of the game :
 
 
