@@ -1,5 +1,6 @@
 # First-game-by-me-in-python
 Hehe
+
 Followed a tutorial from youtube and added some elements by my own to the game
 
 Objective of the game :
